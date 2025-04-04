@@ -13,8 +13,8 @@ This project implements **SimCLR** for self-supervised learning using contrastiv
 Here is an example of the output image:
 
 ![augmented_images](augmented_images/aug_imgs.jpg)
-![augmented_images1](augmented_images/aug_imgs1.jpg)
-![augmented_images2](augmented_images/aug_imgs2.jpg)
+![augmented_images1](augmented_images/aug_imgs_1.jpg)
+![augmented_images2](augmented_images/aug_imgs_2.jpg)
 
 ## 🏗️ Pipeline
 1. **Self-supervised Learning (SimCLR):**
