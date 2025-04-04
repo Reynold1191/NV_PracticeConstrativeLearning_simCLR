@@ -46,7 +46,10 @@ Here is an example of the output image:
 | Validation Accuracy Top-1 | ~70%         |
 | Validation Accuracy Top-5 | ~96%         |
 
+### Train set
 ![res_train](res.png)
+
+### Val set
 ![res_val](res_val.png)
 
 ## 🚀 How to Run
