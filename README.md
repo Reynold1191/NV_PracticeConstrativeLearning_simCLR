@@ -46,6 +46,9 @@ Here is an example of the output image:
 | Validation Accuracy Top-1 | ~70%         |
 | Validation Accuracy Top-5 | ~96%         |
 
+![res_train](res.png)
+![res_val](res_val.png)
+
 ## 🚀 How to Run
 ### Install Dependencies
 ```bash
