@@ -9,6 +9,13 @@ This project implements **SimCLR** for self-supervised learning using contrastiv
   - Images are resized to 224x224 before being fed into the ResNet model.
   - Normalization is performed using the ImageNet mean and standard deviation.
 
+## 🖼️ Augmented Example
+Here is an example of the output image:
+
+![augmented_images](augmented_images/aug_imgs.jpg)
+![augmented_images1](augmented_images/aug_imgs1.jpg)
+![augmented_images2](augmented_images/aug_imgs2.jpg)
+
 ## 🏗️ Pipeline
 1. **Self-supervised Learning (SimCLR):**
    - The model uses contrastive loss to learn embeddings of images without labeled data.
@@ -45,7 +52,7 @@ This project implements **SimCLR** for self-supervised learning using contrastiv
 pip install -r lightning 
 ```
 
-### Get some augumented imgs
+### Get some augmented imgs
 ```bash
 python get_auged_pic.py 
 ```
