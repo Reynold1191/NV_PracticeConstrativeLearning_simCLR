@@ -26,7 +26,7 @@ Here is an example of the output image:
    - **Optimizer:** Adam optimizer is used for training the model.
 
 ## ⚙️ Model & Training
-- **Backbone:** ResNet-50 (pretrained on ImageNet, fine-tuned on CIFAR-10)
+- **Backbone:** ResNet-18 or ResNet-50 (pretrained on ImageNet, fine-tuned on CIFAR-10)
 - **Loss Function:** Contrastive loss (NT-Xent loss)
 - **Optimizer:** Adam
 - **Evaluation Metric:** Top-1 accuracy, Top-5 accuracy
