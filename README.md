@@ -37,7 +37,7 @@ Here is an example of the output image:
   - **Validation Accuracy Top-1:** ~70%
   - **Validation Accuracy Top-5:** ~96%
 
-## 📌 Performance
+## 📌 Performance (using ResNet-18)
 | Metric                | Value            |
 |-----------------------|------------------|
 | Train Loss            | 1.3 - 2.0        |
