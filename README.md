@@ -42,9 +42,9 @@ Here is an example of the output image:
 |-----------------------|------------------|
 | Train Loss            | 1.3 - 2.0        |
 | Train Accuracy Top-1  | ~70%             |
-| Train Accuracy Top-5  | ~96%             |
-| Validation Accuracy Top-5 (w 0.01 label fraction) | ~94.5%         |
-| Validation Accuracy Top-5 (w 0.1 label fraction) | ~96.5%         |
+| Train Accuracy Top-5  | ~97.5%             |
+| Test Accuracy Top-5 (w 0.01 label fraction) | ~94.5%         |
+| Test Accuracy Top-5 (w 0.1 label fraction) | ~96.5%         |
 
 ### Train set
 ![res_train](res.png)
