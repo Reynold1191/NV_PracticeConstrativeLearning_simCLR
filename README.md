@@ -64,12 +64,12 @@ python get_auged_pic.py
 ```
 ### Training and Evaluating
 ```bash
-python main5.py --batch_size 256 --epochs 100 --lr 1e-3 --tau 0.07 --eval_epochs 50 
+python main_simCLR.py --batch_size 256 --epochs 100 --lr 1e-3 --tau 0.07 --eval_epochs 50 
 ```
 
 ### Only Evaluation (frac means label fraction)
 ```bash
-python main5.py --only_eval --frac 0.1
+python main_simCLR.py --only_eval --frac 0.1
 ```
 
 ## 🔬 Observations
