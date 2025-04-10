@@ -55,7 +55,7 @@ Here is an example of the output image:
 ## 🚀 How to Run
 ### Install Dependencies
 ```bash
-pip install -r lightning 
+pip install lightning 
 ```
 
 ### Get some augmented imgs
